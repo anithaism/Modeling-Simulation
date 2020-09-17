@@ -1,0 +1,11 @@
+Simulation Experiments on Predator Prey System
+
+1) Analyze the difference between the rate of change of prey population by having single predator Vs the rate of change of prey population by having two predators that eats the same prey.
+
+2) Analyze the difference between the rate of change of prey over period of time without predator (ie. Natural growth rate of prey in the absence of predator) Vs the rate of change of predator over period of time with predator.
+
+3) Restricting predator move to only 4 directions (instead of 8 ) and analyzing the growth rate of prey.
+
+3) Simulate the increasing number of predator count in the system and analyze the results.
+
+4) How Many moves a predator makes to search for a prey before it dies?
